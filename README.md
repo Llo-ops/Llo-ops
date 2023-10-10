@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Llo-ops
-- 👀 I’m interested in ... Game Development;
-- 🌱 I’m currently learning ... C++, Java;
+- 👀 I’m interested in ... Fullstack Developing || Web Developing;
+- 🌱 I’m currently learning ... React.js, Javascript, and Python;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
