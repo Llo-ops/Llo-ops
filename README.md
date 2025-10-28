@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerome
 - 👀 I’m interested in ... Fullstack Developing || Game Developing;
-- 🌱 I’m currently learning ... C++, Lua, and Raylib;
+- 🌱 I’m currently learning ... Next.js, Typescript
 
 
 <!---
